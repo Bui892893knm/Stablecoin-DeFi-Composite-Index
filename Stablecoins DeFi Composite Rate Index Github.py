@@ -6,6 +6,8 @@
 
 # Comparable to https://twitter.com/skewdotcom/status/1397840468776558593?lang=bg
 
+# Formulas from https://support.skew.com/hc/en-gb/articles/360019246600-How-is-the-DeFi-Stablecoins-Composite-Rate-Index-calculated-
+
 import io
 import json
 import pandas as pd
