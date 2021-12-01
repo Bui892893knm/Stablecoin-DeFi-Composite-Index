@@ -1,4 +1,4 @@
-# This only draws dates from today. For a graph that includes multiple data points, you only need to store the desired data on a daily basis. 
+# This only draws data from today. For a graph that includes multiple data points, you only need to store the desired data on a daily basis. 
 
 # This version unfortunately only includes the stablecoins DAI, USDT and USDC. In addition, it is important to know that only the borrow rate is available via Defipulse's free API. When evaluating skew.com "skew. Stablecoin DeFi Composite Index", the borrow and lending rates are included. However, the result should be the same and helps to assess whether there is currently a high demand for stablecoins. 
 
