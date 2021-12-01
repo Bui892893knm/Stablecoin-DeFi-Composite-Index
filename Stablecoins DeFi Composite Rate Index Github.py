@@ -4,6 +4,7 @@
 
 # However, I am well aware that the metrics from Nansen.ai are much more helpful with regard to stablecoins. I just wanted to offer something in exchange for your top 3 cryptocurrencies for the next bear market.  
 
+# Comparable to https://twitter.com/skewdotcom/status/1397840468776558593?lang=bg
 
 import io
 import json
